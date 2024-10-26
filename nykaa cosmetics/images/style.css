@@ -1,0 +1,160 @@
+*{
+    margin: 0;
+    padding: 0;
+
+}
+
+.navbar{
+    height: 30px;
+    width: 100%;
+    background-color:#FFFFFF;
+    display: flex;
+    align-items: center;
+    border-bottom: 2px solid rgb(198, 175, 175);
+}
+.link{
+    display: flex;
+ justify-content: center;
+ font-size: 14px;
+ 
+
+}
+.link1{
+    margin-left: 30px;
+   
+}
+
+.deals{
+    margin-left: 20px;
+}
+.Help{
+    margin-left: 20px;
+}
+.sell{
+    margin-left: 550px;
+}
+.watch{
+    margin-left: 20px;
+}
+
+.myeBay{
+    margin-left: 20px;
+}
+.bell{
+    margin-left: 20px;
+}
+.cart{
+    margin-left: 20px;
+}
+.navbar2{
+    height: 80px;
+    width: 100%;
+    background-color:#FFFFFF;
+    display: flex;
+    align-items: center;
+    border-bottom: 2px solid rgb(198, 175, 175);
+}
+.h1{
+    display: flex;
+    font-size: 50px;
+    margin-left: 30px;
+}
+.h11{
+    color: red;
+}
+.h12{
+    color: blue;
+}
+.h13{
+    color: yellow;
+}
+.h14{
+    color: green;
+}
+.shop{
+    margin-left: 30px;
+}
+.inputbox input{
+    height: 40px;
+    width: 600px;
+    margin-left: 30px;
+    font-size: 1.2rem;
+}
+
+.btn button{
+    height: 45px;
+    width: 170px;
+    background-color: blue;
+    color: white;
+    border: none;
+    margin-left: 10px;
+}
+.advance{
+    opacity: 0.7;
+    margin-left: 20px;
+}
+.advance:hover{
+    color: blue;
+    opacity: 1;
+}
+.navbar3{
+    height: 30px;
+    width: 100%;
+   background-color: #FFFFFF;
+    display: flex;
+    align-items: center;
+ 
+}
+.listitems .display {
+    list-style: none;
+    
+   display: flex;
+   
+}
+.listitems .display li{
+    margin-left: 35px;
+    opacity: 0.7;
+}
+.listitems .display li:hover{
+    color: blue;
+    opacity: 1;
+}
+.herosection img{
+width: 100%;
+}
+.fav1{
+    height: 50px;
+   
+   background-color: #F7F7F7; 
+   padding: 50px;
+   margin: 50px;
+    display: flex;
+    border-radius: 30px;
+}
+.fav{
+    height: 50px;
+    width: 60%;
+    background-color: #F7F7F7;
+    
+
+}
+.fav2{
+    height: 50px;
+    width: 50%;
+    background-color: #F7F7F7;
+ 
+    
+   
+}
+
+.btn1 button{
+    height: 40px;
+    width: 100px;
+    border-radius: 30px;
+    border: 2px solid black;
+    margin-left: 340px;
+}
+.btn1 button:hover{
+    background-color: black;
+    color: white;
+}
